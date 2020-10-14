@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "MSC": "MSC Egypt",
+      "CUSTOMER_ID": 1908,
+      "CUSTOMER_NAME": "Akzo Nobel Sourcing Bv",
+      "MAIL_ID": "akzonobel.dcsc@orange.com",
+      "EDS": "ATQC04",
+      "DESK_NAME": "CSO Cairo CSD Akzo",
+      "DOMAIN": "@akzonobel.com",
+      "MANAGER_NAME": "Ahmed Abdel-Ghany"
+    },
+    {
+      "MSC": "MSC Egypt",
+      "CUSTOMER_ID": "1908",
+      "CUSTOMER_NAME": "Akzo Nobel Sourcing Bv",
+      "MAIL_ID": "akzonobel.dcsc@orange.com",
+      "EDS": "ATQC04",
+      "DESK_NAME": "CSO Cairo CSD Akzo",
+      "DOMAIN": "@akzonobel.com",
+      "MANAGER_NAME": "Ahmed Abdel-Ghany"
+    },
+    {
+      "MSC": "MSC Egypt",
+      "CUSTOMER_ID": 1908,
+      "CUSTOMER_NAME": "Akzo Nobel Sourcing Bv",
+      "MAIL_ID": "akzonobel.dcsc@orange.com",
+      "EDS": "ATQC04",
+      "DESK_NAME": "CSO Cairo CSD Akzo",
+      "DOMAIN": "@akzonobel.com",
+      "MANAGER_NAME": "Ahmed Abdel-Ghany"
+    },
+    {
+      "MSC": "MSC Egypt",
+      "CUSTOMER_ID": 1908,
+      "CUSTOMER_NAME": "Akzo Nobel Sourcing Bv",
+      "MAIL_ID": "akzonobel.dcsc@orange.com",
+      "EDS": "ATQC04",
+      "DESK_NAME": "CSO Cairo CSD Akzo",
+      "DOMAIN": "@akzonobel.com",
+      "MANAGER_NAME": "Ahmed Abdel-Ghany"
+    },
+    {
+      "MSC": "MSC Egypt",
+      "CUSTOMER_ID": 1908,
+      "CUSTOMER_NAME": "Akzo Nobel Sourcing Bv",
+      "MAIL_ID": "akzonobel.dcsc@orange.com",
+      "EDS": "ATQC04",
+      "DESK_NAME": "CSO Cairo CSD Akzo",
+      "DOMAIN": "@akzonobel.com",
+      "MANAGER_NAME": "Ahmed Abdel-Ghany"
+    }
+  ]
+}
